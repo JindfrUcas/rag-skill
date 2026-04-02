@@ -1,4 +1,4 @@
-# 领域目录索引：Safety Knowledge
+# 领域目录索引：safety_knowledge
 
 本目录聚焦于 Web 安全相关知识，目前包含以下文件：
 
